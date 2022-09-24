@@ -347,10 +347,10 @@
       "name": "youtube_player_flutter_quill",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.16"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-09-24T16:59:36.071716Z",
+  "generated": "2022-09-24T17:05:20.159778Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
